@@ -1,2 +1,2 @@
 # Unit2BuildWeekProject
-Build week project for unit 2
+Modeling practice and exploration of Altair library
